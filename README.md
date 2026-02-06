@@ -175,10 +175,4 @@ Scan the file C:/projects/config.js for secrets
 
 This tool is intended for **security research and authorized testing only**. Always ensure you have proper authorization before scanning any website or system. Unauthorized scanning may violate terms of service or applicable laws.
 
----
 
-
-
----
-
-**Made with ❤️ for security researchers**

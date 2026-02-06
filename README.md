@@ -177,29 +177,7 @@ This tool is intended for **security research and authorized testing only**. Alw
 
 ---
 
-## 🤝 Contributing
 
-Contributions are welcome! Feel free to:
-
-1. Fork the repository
-2. Create a feature branch (`git checkout -b feature/new-pattern`)
-3. Commit your changes (`git commit -am 'Add new secret pattern'`)
-4. Push to the branch (`git push origin feature/new-pattern`)
-5. Open a Pull Request
-
----
-
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
----
-
-## 🙏 Acknowledgments
-
-- Built with [FastMCP](https://github.com/jlowin/fastmcp)
-- Inspired by security tools like TruffleHog and GitLeaks
-- Thanks to the MCP protocol for enabling AI-tool integration
 
 ---
 
